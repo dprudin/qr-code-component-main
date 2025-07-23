@@ -1,0 +1,19 @@
+@media (max-width: 62.5rem) {
+    html {
+        font-size: 50%;
+    }
+
+    .card {
+        padding: 1.2rem;
+    }
+}
+
+@media (max-width: 31.25rem) {
+    html {
+        font-size: 37.5%;
+    }
+
+    .card {
+        padding: 1.2rem;
+    }
+}
